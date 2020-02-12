@@ -83,4 +83,4 @@ def v35_1(max=1000000):
 #print(find_circular_permutations(197))
 #print(v35_1())-->55
 print(timeit.timeit(v35_1,number=10)/10)
-#0.8874000253000304sec
+#0.7719389825000235sec
